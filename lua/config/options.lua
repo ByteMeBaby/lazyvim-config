@@ -5,4 +5,4 @@
 vim.opt.winbar = "%=%m %f %y %w %p%% %l/%L %c"
 vim.opt.wrap = true
 vim.opt.numberwidth = 6
-vim.opt.columns = 10
+vim.opt.columns = 100
